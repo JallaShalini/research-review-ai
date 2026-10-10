@@ -1,0 +1,14 @@
+python-dotenv
+pydantic
+redis
+loguru
+tenacity
+langgraph
+langchain
+langchain-core
+arxiv
+requests
+pymupdf
+bibtexparser
+pytest
+pytest-asyncio
